@@ -1,6 +1,6 @@
 # Vermont Food Scrap Generators
 
-**TOOLS: SQL, TABLEAU**
+**Tools used: SQL, Tableau**
 
 In July 2020, Vermont became the first state to ban food scraps from being disposed of in the trash. The law aims to reduce food waste, conserve landfill space, and reduce greenhouse gas emissions. Both individuals and businesses and institutions in the state are required to abide by the law.
 
